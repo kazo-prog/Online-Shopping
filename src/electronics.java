@@ -27,4 +27,9 @@ public class electronics extends product {
           if (a==quantity){
               System.out.println(i); 
     
-}}}}
+}}}
+void publisher(){
+String name;
+}
+
+}
