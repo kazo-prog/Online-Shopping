@@ -30,4 +30,10 @@ public class books extends product implements price {
         
         throw new UnsupportedOperationException("black friday discaount"); 
     }
+     private electronics bk;
+    books(electronics bk){
+    bk.publisher();
+    
+    
+    }
 }
